@@ -1,4 +1,4 @@
-# Remove certain types of files
+# Unlock and Recover Vim Session
 
 Upload `final.sh` to github, remember that `final.sh` must print a usage summery if it is not run with the appropriate number of arguments.
 
